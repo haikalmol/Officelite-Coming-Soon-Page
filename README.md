@@ -4,10 +4,6 @@
 
 ## Welcome! 👋
 
-Today's challenge was building this awesome Officelite coming soon two-paged website - one of my most thorough projects
-
-[Live Site](https://officelite-coming-soon-site-sigma.vercel.app/)
-
 ## Technologies Used
 
 * **HTML5**
@@ -49,9 +45,3 @@ A big reason of why I managed to develop this project at a much faster pace than
 Thanks for taking the time to read this and I'll see you in the next challenge!
 
 * **
-
-You can join this and many other challenges on [Frontend Mentor](https://www.frontendmentor.io/)
-
-## My work
-
-You can find more challenges that I've completed [here](https://www.frontendmentor.io/profile/Remus432)
